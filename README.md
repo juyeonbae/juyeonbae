@@ -69,6 +69,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="48%" > 
 </a>
 <!--
+**juyeonbae/juyeonbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
@@ -83,5 +84,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 💬 Top Langs
+<div align=center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeonbae)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
