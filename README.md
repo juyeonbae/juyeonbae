@@ -65,6 +65,15 @@
 </p>
 
 
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=celina324)](https://solved.ac/celina324/)<img src="http://mazandi.herokuapp.com/api?handle=celina324&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldchae&&hide_progress=true)
+
+<!--![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldchae&show_icons=true&theme=radical)-->
+</div>
+
+
 #### 🌱 Github Stats  
 <a href="s">
 <img src="https://github-readme-stats.vercel.app/api?username=juyeonbae&theme=tokyonight&show_icons=true&hide_border=true" width="45%" />
@@ -87,10 +96,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=celina324)](https://solved.ac/celina324/)<img src="http://mazandi.herokuapp.com/api?handle=celina324&theme=dark"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldchae&&hide_progress=true)
-
-<!--![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldchae&show_icons=true&theme=radical)-->
-</div>
