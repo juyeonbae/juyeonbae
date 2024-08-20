@@ -86,3 +86,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=celina324)](https://solved.ac/celina324/)<img src="http://mazandi.herokuapp.com/api?handle=celina324&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldchae&&hide_progress=true)
+
+<!--![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldchae&show_icons=true&theme=radical)-->
+</div>
