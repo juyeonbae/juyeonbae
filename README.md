@@ -7,6 +7,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" /> -->
 
 <div align="center" style="margin: auto; width: fit-content; padding: 10px; border: 2px solid red;">
+  <h3> 📞 Contact </h3>
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -74,37 +75,32 @@
 
 </p>
 
-<h4 align="center"> Techs that I am Interested in & Now Studying </h4>
+<br>
+<h3 align="center"> 📚 Interested in & Now Studying 📚 </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
 </p>
 
 
-  
-#### 📢 Communication
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,notion,discord,gmail,linkedin" />
-  </a>
-</p>
-
+<br>
+<br>
+<br>
+<hr>
 
 <div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ilnyu0756)](https://solved.ac/ilnyu0756/)<img src="http://mazandi.herokuapp.com/api?handle=ilnyu0756&theme=dark"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeonbae&&hide_progress=true)
+<a href="https://solved.ac/ilnyu0756/">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ilnyu0756" alt="Solved.ac Profile" width="48%" />
+</a> <img src="http://mazandi.herokuapp.com/api?handle=ilnyu0756&theme=dark" alt="Mazandi Stats" width="48%" />
 
 </div>
-
-
-#### 🌱 Github Stats  
+<br>
+<div algin="center">
 <a href="s">
-<img src="https://github-readme-stats.vercel.app/api?username=juyeonbae&theme=tokyonight&show_icons=true&hide_border=true" width="45%" />
-</a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=tokyonight&hide_border=true" width="48%" > 
-</a>
-<!--
-**juyeonbae/juyeonbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=juyeonbae&theme=gruvbox&show_icons=true&hide_border=true" width="56%" />
 
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=gruvbox&hide_border=true" width="%" > -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juyeonbae&theme=gruvbox&exclude={exclude}" width="40%" >
 
+</a>
+</div>
