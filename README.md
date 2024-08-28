@@ -5,7 +5,7 @@
 <p align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nerko+One&weight=800&size=40&pause=1000&color=1E7BF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+Juyeon's+Github" alt="Typing SVG" /></a>
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" /> -->
-</p>
+
 <div align="center" style="margin: auto; width: fit-content; padding: 10px; border: 2px solid red;">
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,25 +42,25 @@
 
 
 </details>
-
+</p>
+<p align="center">
 ### 🖥️ Skills
 
 #### 📑 Language & Framework & Tools
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow,git,sklearn" />
   </a>
-</p>
+
 
 #### 📚 Interested in & Now Studying
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=opencv,pytorch,kubernetes,docker" />
   </a>
-</p>
+
   
 #### 📢 Communication
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,notion,discord,gmail,linkedin" />
   </a>
