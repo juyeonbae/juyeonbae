@@ -7,7 +7,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" /> -->
 </p>
 <br>
-<div style='float:left'>
+<div style='float:center'>
 <a href=""/>
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
