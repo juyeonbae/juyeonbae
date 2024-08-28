@@ -7,15 +7,18 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" /> -->
 </p>
 <br>
-<div style='float:center'>
-<a href=""/>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://zo0oz.tistory.com">
-<img alt="tistory" src="https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white" />
-</a>
-<a href="juyeonbae.dev@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<div align="center" style="margin: auto; width: fit-content; padding: 10px; border: 2px solid red;">
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://zo0oz.tistory.com">
+    <img alt="tistory" src="https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+  <a href="mailto:juyeonbae.dev@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 
 
 ### 🎓  Education
