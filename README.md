@@ -43,24 +43,25 @@
 
 </details>
 </p>
-<p align="center">
+
 ### 🖥️ Skills
 
 #### 📑 Language & Framework & Tools
-
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow,git,sklearn" />
+    <img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow,git,sklearn,flask, fastapi" />
   </a>
 
 
 #### 📚 Interested in & Now Studying
-
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch, llm" />
   </a>
-
+</p>
   
 #### 📢 Communication
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,notion,discord,gmail,linkedin" />
   </a>
