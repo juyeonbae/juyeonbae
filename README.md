@@ -3,21 +3,12 @@
 <div align="left">
   
 <p align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nerko+One&weight=800&size=40&pause=1000&color=1E7BF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+Juyeon's+Github" alt="Typing SVG" /></a>
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" /> -->
 
-<div align="center" style="margin: auto; width: fit-content; padding: 10px; border: 2px solid red;">
-  <h3> 📧 Contact 📧 </h3>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://zo0oz.tistory.com">
-    <img alt="tistory" src="https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white" />
-  </a>
-  <a href="mailto:juyeonbae.dev@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FE9A2E&height=150&section=header&text=&fontSize=60" /> 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Nerko+One&weight=800&size=40&pause=1000&color=FF8000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+Juyeon's+Github" alt="Typing SVG" />
+</a>
+
 
 
 
@@ -82,6 +73,20 @@
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
 </p>
 
+<br>
+<div align="center" style="margin: auto; width: fit-content; padding: 10px; border: 2px solid red;">
+  <h3> 📧 Contact 📧 </h3>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://zo0oz.tistory.com">
+    <img alt="tistory" src="https://img.shields.io/badge/tistory-ff5544?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+  <a href="mailto:juyeonbae.dev@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 
 <br>
 <br>
@@ -104,3 +109,6 @@
 
 </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FE9A2E&height=100&section=footer" alt="Footer">
+
