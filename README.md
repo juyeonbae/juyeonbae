@@ -7,7 +7,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=70" /> -->
 
 <div align="center" style="margin: auto; width: fit-content; padding: 10px; border: 2px solid red;">
-  <h3> 📞 Contact </h3>
+  <h3> 📧 Contact 📧 </h3>
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
