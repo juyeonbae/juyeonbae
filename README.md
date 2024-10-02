@@ -8,10 +8,12 @@
 <a href="https://zo0oz.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://zo0oz.tistory.com"/></a> <a href="mailto:juyeonbae.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeonbae.dev@gmail.com"/></a> <a href="https://www.linkedin.com/in/juyeon-bae-78214b239"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/juyeon-bae-78214b239"/></a> 
 
 
-<h3>🛠 Tech Stack 🛠</h3>
+### 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white" alt="OpenAI"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=FastAPI&logoColor=white" alt="MongoDB"/>
+
 <br>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" alt="NumPy"/>
@@ -24,8 +26,10 @@
 <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white" alt="Google Colab"/>
 
 <h3>📚 Interested in & Now Studying 📚 </h3>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI"/>
+
+
 
 <details>
 <summary><h3>⭐ Experience ⭐</h3></summary>
