@@ -135,8 +135,9 @@
 
 <div align="center">
 <a href="https://solved.ac/ilnyu0756/">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ilnyu0756" alt="Solved.ac Profile" width="48%" />
-</a> <img src="http://mazandi.herokuapp.com/api?handle=ilnyu0756&theme=dark" alt="Mazandi Stats" width="48%" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ilnyu0756" alt="Solved.ac Profile" width="35%" />
+</a> <img src="http://mazandi.herokuapp.com/api?handle=ilnyu0756&theme=dark" alt="Mazandi Stats" width="35%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juyeonbae&theme=gruvbox&exclude={exclude}" width="28%" >
 
 </div>
 <!--<br>
