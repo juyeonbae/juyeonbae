@@ -8,6 +8,8 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Nerko+One&weight=800&size=40&pause=1000&color=FF8000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Welcome+to+Juyeon's+Github" alt="Typing SVG" />
 </a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF8000&height=100&section=header&text=Welcome+to+Juyeon's+Github&fontColor=000000&fontSize=90)
+
 
 
 # 아직 수정 중 
