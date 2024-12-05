@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white" alt="OpenAI"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=FastAPI&logoColor=white" alt="MongoDB"/>
 
 <br>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
@@ -28,6 +27,8 @@
 <h3>📚 Interested in & Now Studying 📚 </h3>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=FastAPI&logoColor=white" alt="MongoDB"/>
+
 
 <!--
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"/>
