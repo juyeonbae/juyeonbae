@@ -15,7 +15,7 @@ I never stop asking 'why?' and constantly strive to take on new challenges.
 |:---------------:|:---------------------------------:|:----------:|:----------------:|
 |  Ripple Trip  | Travel itinerary and expense management app |  2024.10 - 2024.12 | KakaoTech Bootcamp |
 | HarpShark  |               Webpage for back-office operations        | 2024.07 - 2024.08| KakaoTech Bootcamp |
-|  OMDD   |  Optimal Model for a Different Types of Datasets        | 2023.11 - 2023.12 | Ewha Univ |
+|  OMDD   |  Optimal Model for a Different Types of Datasets        | 2023.11 - 2023.12 | Ewha W Univ |
 
 
 
