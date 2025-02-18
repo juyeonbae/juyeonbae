@@ -40,7 +40,7 @@ I never stop asking 'why?' and constantly strive to take on new challenges.
 |Certification|Information Processing Engineer Certification  |  2024.06.18 | HRDK |
 |Certification| ADsP (Advanced Data Analytics Semi-Professional Certification)  |  2024.06.07 | K-DATA |
 |Reward(Bronze)|Bronze Award for Outstanding Paper|2023.11.24|KIIT|
-|Reward(Silver)|Silver Award for Outstanding Paper|2023.11.24|KIIT|
+|Reward(Silver)|Silver Award for Outstanding Paper|2023.06.02|KIIT|
 |Certification| MOS Master(PowerPoint, Excel, Word, Access)  |  2020.12.08 | Microsoft |
 
 &nbsp; 
