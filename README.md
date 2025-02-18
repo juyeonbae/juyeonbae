@@ -11,11 +11,11 @@ I never stop asking 'why?' and constantly strive to take on new challenges.
 
 &nbsp; 
 ## 🚀 Project
-| Project Name    | Date     | Description                        | Organization       |
-|:---------------:|:---------:|:---------------------------------:|:----------------:|
-|  Ripple Trip  |  2024.10 - 2024.12 | Travel itinerary and expense management app | KakaoTech Bootcamp |
-| HarpShark | 2024.07-2024.08 |               Webpage for back-office operations        | KakaoTech Bootcamp |
-|  OMDD  | 2023.11 - 2023.12 |  Optimal Model for a Different Types of Datasets         | Ewha Univ |
+| Project Name    | Description                        | Date     | Organization       |
+|:---------------:|:---------------------------------:|:----------:|:----------------:|
+|  Ripple Trip  | Travel itinerary and expense management app |  2024.10 - 2024.12 | KakaoTech Bootcamp |
+| HarpShark  |               Webpage for back-office operations        | 2024.07 - 2024.08| KakaoTech Bootcamp |
+|  OMDD   |  Optimal Model for a Different Types of Datasets        | 2023.11 - 2023.12 | Ewha Univ |
 
 
 
@@ -34,9 +34,9 @@ I never stop asking 'why?' and constantly strive to take on new challenges.
 ## 🏅 Certifications & Rewards
 |Category | Content    | Date     |  Organization |
 |:----:|:---------------:|:---------:|:----------------:|
-|Certificate(Edu)| KakaoTech Bootcamp - Generate AI Track |2024.07-12 |KakaoTech, Goorm|
+|Certificate(Edu)| KakaoTech Bootcamp - Generate AI Track |2024.07 - 2024.12 |KakaoTech, Goorm|
 |Certification| SQLD(SQL Developer Certification)  |  2024.09.20 | K-DATA |
-|Certificate(Edu)| <Data Science 2024> Coaching Study | 2024.07-08|Naver BoostCourse|
+|Certificate(Edu)| <Data Science 2024> Coaching Study | 2024.07 - 2024.08|Naver BoostCourse|
 |Certification|Information Processing Engineer Certification  |  2024.06.18 | HRDK |
 |Certification| ADsP (Advanced Data Analytics Semi-Professional Certification)  |  2024.06.07 | K-DATA |
 |Reward(Bronze)|Bronze Award for Outstanding Paper|2023.11.24|KIIT|
