@@ -12,11 +12,12 @@ I never stop asking 'why?' and constantly strive to take on new challenges.
 
 &nbsp; 
 ## 🚀 Project
-| Project    | Description                        | Date     | Organization       |tools |
+| Project    | Description                        | Date     | Organization       | Tools |
 |:---------------:|:---------------------------------:|:----------:|:----------------:|:----:|
-|  Ripple Trip  | Travel itinerary and expense management app |  2024.10 - 2024.12 | KakaoTech Bootcamp | ![FastAPI](https://img.shields.io/badge/-429488?style=&logo=FastAPI&logoColor=white&logoSize=amg) ![OpenCV](https://img.shields.io/badge/-5C3EE8?style=&logo=OpenCV&logoColor=white&logoSize=amg) ![Hugging Face](https://img.shields.io/badge/-FFD21E?style=&logo=HuggingFace&logoColor=white&logoSize=amg)|
-| HarpShark|  Webpage for back-office operations        | 2024.07 - 2024.08  | KakaoTech Bootcamp| ![FastAPI](https://img.shields.io/badge/-429488?style=&logo=FastAPI&logoColor=white&logoSize=amg) ![MongoDB](https://img.shields.io/badge/-47A248.svg?style=&logo=mongodb&logoColor=white) ![OpenAI](https://img.shields.io/badge/-412991?style=&logo=OpenAI&logoColor=white&logoSize=amg) |
-|  OMDD |  Optimal Model for a Different Types of Datasets   | 2023.11 - 2023.12        | Ewha W Univ | ![PyTorch](https://img.shields.io/badge/-EE4C2C?style=&logo=PyTorch&logoColor=white&logoSize=amg) ![TensorFlow](https://img.shields.io/badge/-FF6F00?style=&logo=TensorFlow&logoColor=white&logoSize=amg) ![scikit-learn](https://img.shields.io/badge/-F7931E?style=&logo=scikit-learn&logoColor=white&logoSize=amg) <br>![Google Colab](https://img.shields.io/badge/-F9AB00?style=&logo=GoogleColab&logoColor=white&logoSize=amg) ![Pandas](https://img.shields.io/badge/-150458?style=&logo=pandas&logoColor=white&logoSize=amg)|
+|  Ripple Trip  | AI-powered travel assistant with image editing & itinerary management |  2024.10 - 2024.12 | KakaoTech Bootcamp | ![FastAPI](https://img.shields.io/badge/-429488?style=&logo=FastAPI&logoColor=white) ![OpenCV](https://img.shields.io/badge/-5C3EE8?style=&logo=OpenCV&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-FFD21E?style=&logo=HuggingFace&logoColor=white)|
+| HarpShark | GPT-based AI chatbot for back-office automation | 2024.07 - 2024.08  | KakaoTech Bootcamp| ![FastAPI](https://img.shields.io/badge/-429488?style=&logo=FastAPI&logoColor=white) ![MongoDB](https://img.shields.io/badge/-47A248.svg?style=&logo=mongodb&logoColor=white) ![OpenAI](https://img.shields.io/badge/-412991?style=&logo=OpenAI&logoColor=white) |
+|  OMDD | Research on optimizing ML/DL models for different data types | 2023.11 - 2023.12        | Ewha W Univ | ![TensorFlow](https://img.shields.io/badge/-FF6F00?style=&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-F7931E?style=&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-150458?style=&logo=pandas&logoColor=white)|
+
 
 
 
