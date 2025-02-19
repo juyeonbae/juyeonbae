@@ -12,7 +12,7 @@ I never stop asking 'why?' and constantly strive to take on new challenges.
 
 &nbsp; 
 ## 🚀 Project
-| Project    | Description                        | Date     | Organization       |
+| Project Name    | Description                        | Date     | Organization       |
 |:---------------:|:---------------------------------:|:----------:|:----------------:|
 |  Ripple Trip  | AI-powered travel assistant with image editing & itinerary management |  2024.10 - 2024.12 | KakaoTech Bootcamp | 
 | HarpShark | GPT-based AI chatbot for back-office automation | 2024.07 - 2024.08  | KakaoTech Bootcamp| 
